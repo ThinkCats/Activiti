@@ -1,7 +1,7 @@
 
 ## Activiti Test Case
 
-activiti test case code.
+Activiti test case code based on Spring Boot.
 
 * Test condition gateway when starting a process instance. The process workflow defined like the screeshot:
 
@@ -12,5 +12,4 @@ activiti test case code.
 ![task_condition](https://github.com/ThinkCats/ActivitiTest/blob/master/screenshot/task_condition.png)
 
 
-> Current Spring Boot Web is lack of mysql config.
 
