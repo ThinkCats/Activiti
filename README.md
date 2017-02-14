@@ -1,7 +1,6 @@
 
 ## Activiti Test Case
 
-Activiti test case code based on Spring Boot.
 
 * Test condition gateway when starting a process instance. The process workflow defined like the screeshot:
 
